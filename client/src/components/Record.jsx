@@ -54,4 +54,4 @@ const Record = ({ record }) => {
   )
 }
 
-export default Record
+export default Record;

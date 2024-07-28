@@ -10,7 +10,7 @@ function Footer() {
       <Link uri={"https://reactjs.org"} text={"React"} />
       <Link uri={"https://soliditylang.org"} text={"Solidity"} />
       <Link uri={"https://ethereum.org"} text={"Ethereum"} />
-    </footer >
+    </footer>
   );
 }
 

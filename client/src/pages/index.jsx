@@ -1,5 +1,6 @@
 import { Box, Typography, Backdrop, CircularProgress, Divider } from '@mui/material'
 import React from 'react'
+import { Button } from '@mui/material';
 import AccountBalanceWalletRoundedIcon from '@mui/icons-material/AccountBalanceWalletRounded'
 import VideoCover from 'react-video-cover'
 import BackgroundVideo from '../assets/BackgroundVideo.mp4'
