@@ -115,7 +115,7 @@ const Home = () => {
           <ActionSection />
           <Box display='flex' alignItems='center' mt={2}>
             <Typography variant='h5' color='white'>
-              powered by{' '}
+              Made with {' '}
             </Typography>
             <Box mx={1}>
               <img
