@@ -1,4 +1,4 @@
-# SwasthyaChain - Blockchain-Based Healthcare Data Management
+# SwasthyaChain - Blockchain-Based Healthcare Data Management⚕️
 
 SwasthyaChain is a decentralized application (DApp) that leverages blockchain technology to securely store and manage patients' healthcare data. Built using **ReactJS**, **Node.js**, **IPFS**, **Metamask**, **Truffle Suite**, and the **Ethereum Network**, this project aims to provide a secure, transparent, and tamper-proof system for storing patient records. 
 
